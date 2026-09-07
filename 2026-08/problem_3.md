@@ -1,0 +1,2 @@
+**Bid:** 3♠
+**Reasoning:** In the balancing seat, the strong five-card spade suit and club void justify competing despite only 9 HCP. Although 4♦ would show both majors under the system's non-leaping Michaels agreement, committing to game with these weak hearts and three diamonds is too ambitious at adverse vulnerability. A natural 3♠ keeps the bidding lower and allows partner to evaluate a spade fit.

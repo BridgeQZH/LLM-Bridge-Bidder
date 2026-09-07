@@ -1,0 +1,2 @@
+**Bid:** 3♦
+**Reasoning:** The system makes a new suit at the three-level game-forcing after an overcall, so 3♦ shows the five-card suit and sufficient strength to insist on game. The 12 HCP, strong diamonds and four-card club support justify that commitment. Starting with diamonds preserves the choice between notrump and a minor-suit contract, with the spade king positioned behind the overcaller.

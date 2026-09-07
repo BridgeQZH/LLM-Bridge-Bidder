@@ -1,0 +1,2 @@
+**Bid:** 5♥
+**Reasoning:** Six-card support opposite a five-card heart opening gives at least eleven trumps, and the singleton club makes the hand strongly offensive. The opponents' diamond fit makes stopping in defence unattractive, but a possible diamond loser and no assurance of first-round club control leave slam dependent on undisclosed cards in partner's hand. Bidding 5♥ competes for the likely making game without assuming those extra controls.

@@ -1,0 +1,2 @@
+**Bid:** 4♣
+**Reasoning:** Rebidding clubs naturally shows the fifth club alongside the long hearts and keeps both suits available in this game-forcing auction. With 15 HCP and a 6-5 distribution, I have substantial slam potential opposite a 15-17 notrump opening despite partner's preference for 3NT. Partner can support clubs or return to hearts, allowing us to assess the best trump suit before considering keycards.

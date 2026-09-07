@@ -1,0 +1,2 @@
+**Bid:** Pass
+**Reasoning:** The system's non-leaping Michaels 4♣ requires at least five clubs and five hearts, so four hearts do not qualify. A takeout double risks forcing partner to bid diamonds opposite a singleton, while the modest club suit and lack of a spade stopper offer no sound alternative overcall. With three spades and useful defensive values, passing is preferable to forcing an unsuitable contract.

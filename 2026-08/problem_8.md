@@ -1,0 +1,2 @@
+**Bid:** 4♠
+**Reasoning:** Partner's explicitly natural, game-forcing 3♦ response and subsequent diamond rebid suggest a long suit, making the singleton ace valuable support for a slam investigation. A 4♠ cue-bid shows the lowest available control under the system's Italian style and cooperates with diamonds. The spade ace-king and both minor-suit aces justify this encouragement, while partner can clarify the remaining trump and heart requirements.

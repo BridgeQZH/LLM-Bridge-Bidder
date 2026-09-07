@@ -1,0 +1,2 @@
+**Bid:** 2NT
+**Reasoning:** After partner's major-suit overcall, the system uses 2NT for a limit raise or better with at least four trumps. Five hearts, a spade void and the strong seven-card diamond suit make this hand far too promising for a pre-emptive direct raise. Starting with 2NT shows constructive support and leaves room to investigate slam, while a jump in the opponents' diamond suit would misleadingly show shortage.

@@ -1,0 +1,2 @@
+**Bid:** 2♠
+**Reasoning:** Partner's cue-bid shows a limit raise or better in clubs, and my 16 HCP with six good clubs warrant further exploration. With clubs supported, I use 2♠ to show spade values and help investigate notrump, rather than to propose a two-card trump suit. Partner can bid notrump with diamonds stopped, while we retain clubs as an alternative if the diamond weakness cannot be covered.

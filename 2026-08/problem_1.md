@@ -1,0 +1,2 @@
+**Bid:** 5♣
+**Reasoning:** The three-level new-suit response established a game force, and partner's subsequent bidding suggests long hearts with a genuine club side suit. Supporting clubs now with AKQ offers a promising alternative strain and invites slam rather than abandoning the auction in 4♥. The diamond ace and strong six-card spade suit are excellent assets, but partner must help judge whether the heart losers can be controlled.

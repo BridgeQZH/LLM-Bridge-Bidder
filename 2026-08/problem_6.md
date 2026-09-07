@@ -1,0 +1,2 @@
+**Bid:** 1♠
+**Reasoning:** A [natural one-level response after a takeout double](https://www.larryco.com/uploaded/pdf/pdfup_552.pdf) shows four or more cards and is forcing for one round. AQ72 is worth introducing with 7 HCP, particularly since partner can hold four spades alongside the diamond opening. The diamond support provides a safe fallback, whereas a fit-showing jump to 2♠ would require at least five spades under this system.

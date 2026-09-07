@@ -1,0 +1,2 @@
+**Bid:** 3♠
+**Reasoning:** With diamonds now supported, 3♠ shows useful spade values while keeping both 3NT and a diamond contract available. The earlier cue-bid has shown strength, and the heart void makes the 17 HCP especially promising for diamonds if partner has fitting honours. This economical continuation lets partner describe the hand further before I commit to notrump or pursue a diamond slam.
